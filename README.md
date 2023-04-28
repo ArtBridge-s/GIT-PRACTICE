@@ -23,3 +23,17 @@ Organization Setting > Member privileges > Base permissions 를 Write를 설정�
 
 ## 이벤트 효과
 reviewer를 찾고 approve 방법을 찾아가며 Github 사용법을 자연스럽게 익히고, 문제 해결 과정을 통해 서로가 알아가며 친해질 수 있는 시간을 갖음
+
+
+## GIT CONVENTION
+feat: 새로운 기능 추가
+fix: 버그 수정
+docs: 문서 수정
+style: 코드 스타일 변경 (formatting, missing semi colons 등)
+refactor: 코드 리팩토링
+perf: 성능 개선
+test: 테스트 코드 추가 및 수정
+build: 빌드 시스템 및 외부 종속성에 대한 수정
+ci: CI 파이프라인에 대한 수정
+chore: 빌드나 도구, 라이브러리 관련 변경사항 (개발자의 책임 범위를 벗어나는 작업)
+revert: 이전 커밋을 되돌릴 때 사용
