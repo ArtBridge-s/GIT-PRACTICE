@@ -39,7 +39,7 @@ revert: 이전 커밋을 되돌릴 때 사용 <br/>
 
 ##### 커밋 메시지 예시
 ```shell
-feat(user): Add user authentication
+feat(user): Add user authentication [PROJ-123]
 
 - Implement JWT token for user authentication
 - Add login and register endpoints
